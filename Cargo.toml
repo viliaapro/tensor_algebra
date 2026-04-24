@@ -1,0 +1,13 @@
+[package]
+name = "tensor_algebra"
+version = "0.1.0"
+edition = "2021"
+description = "Sparse tensors over arbitrary semirings with generic symbolic keys"
+license = "MIT"
+repository = "https://github.com/YOUR_USERNAME/tensor_algebra"
+documentation = "https://docs.rs/tensor_algebra"
+readme = "README.md"
+keywords = ["tensor", "semiring", "algebra", "sparse", "linear-algebra"]
+categories = ["mathematics", "data-structures"]
+
+[dependencies]
