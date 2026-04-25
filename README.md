@@ -1,6 +1,6 @@
 # tensor_algebra
 
-Sparse tensors over arbitrary semirings with generic symbolic keys. A Rust port of [TensorAlgebra.jl](https://github.com/YOUR_USERNAME/TensorAlgebra.jl).
+Sparse tensors over arbitrary semirings with generic symbolic keys. A Rust port of [TensorAlgebra.jl](https://github.com/viliaapro/TensorAlgebra.jl).
 
 ## Concepts
 
